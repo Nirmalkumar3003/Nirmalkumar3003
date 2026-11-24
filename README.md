@@ -63,14 +63,14 @@ I'm a fresher who enjoys building full-stack web applications and turning ideas 
 
 A full-stack log analysis app built within a 3-hour AI-assisted placement round. It automatically detects and masks sensitive data (emails, passwords, tokens, credit card details, user IDs), extracts and deduplicates errors, and uses a local LLM (Ollama) for privacy-aware debugging so sensitive data stays protected.
 
-👉 [View repository](https://github.com/USERNAME/REPO-NAME)
+👉 [View repository](https://github.com/Nirmalkumar3003/PII-Safe_Log_Analyzer)
 
 ### 🎓 Learnly-Hub
 `React.js` `Node.js` `Firebase` `HTML` `CSS` `JavaScript`
 
 An online learning platform with interactive modules, real-time discussions and personalized learning paths. It uses Firebase for authentication and data, reusable React components, and a responsive UI that works across devices. It also supports community help from 15+ industry experts.
 
-👉 [View repository](https://github.com/USERNAME/REPO-NAME)
+👉 [View repository](https://github.com/Nirmalkumar3003/LearnlyHUB)
 
 ### 🧩 More Projects (MERN)
 Built during my MERN internship: **Event Management App**, **Portfolio Website**, **Chess Game** and **Expense Tracker**.

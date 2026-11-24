@@ -100,7 +100,7 @@ Sri Eshwar College of Engineering · CGPA 7.5 / 10
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=nirmalkumar3003&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
